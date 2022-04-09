@@ -8,7 +8,7 @@
         class="mx-auto"
         max-width="344"
       >
-        <v-img :src="`${cafe.img}`" height="300px"></v-img>
+        <v-img class="rounded-xl" :src="`${cafe.img}`" height="300px"></v-img>
 
         <v-card-title class="font-weight-bold px-0">
           {{ cafe.name }}

@@ -1,6 +1,6 @@
 <template>
   <v-app id="app">
-    <v-container fluid class="pa-10">
+    <v-container fluid class="pa-16">
       <v-row class="pa-16 pt-0">
         <div class="d-flex align-center" style="color: black">
           <v-icon size="37" color="black">mdi-coffee-outline</v-icon>
@@ -11,9 +11,9 @@
 
         <div class="text-center d-flex">
           <div class="d-flex" style="font-size: 18px">
-            <div class="px-7">Home</div>
-            <div class="px-7">Contact</div>
-            <div class="px-7">Our Products</div>
+            <div class="">Home</div>
+            <div class="px-5">Contact</div>
+            <div class="">Our Products</div>
           </div>
         </div>
 

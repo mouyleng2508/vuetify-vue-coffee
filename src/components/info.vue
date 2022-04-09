@@ -3,9 +3,10 @@
     <v-row
       justify="center"
       align="center"
-      style="background-color: #9e694b; height: 300px"
+      class="py-10 pb-16"
+      style="background-color: #9e694b; height: auto"
     >
-      <v-col cols="4" class="white--text">
+      <v-col md="4" cols="12" sm="12" class="white--text">
         <div class="text-center">
           <div class="font-weight-regular py-5" style="font-size: 35px">
             Customer
@@ -14,7 +15,7 @@
           <div>per month</div>
         </div>
       </v-col>
-      <v-col cols="4" class="white--text">
+      <v-col md="4" cols="12" sm="12" class="white--text">
         <div class="text-center">
           <div class="font-weight-regular py-5" style="font-size: 35px">
             Export
@@ -25,7 +26,7 @@
           <div>per year</div>
         </div>
       </v-col>
-      <v-col cols="4" class="white--text">
+      <v-col md="4" cols="12" sm="12" class="white--text">
         <div class="text-center">
           <div class="font-weight-regular py-5" style="font-size: 35px">
             Sale

@@ -1,7 +1,7 @@
 <template>
   <v-container fluid class="pa-0" style="background-color: #e2c5a6">
     <v-row justify="center" align="center" style="height: 300px">
-      <v-col cols="6">
+      <v-col cols="12" md="6">
         <div class="d-flex justify-space-around" style="font-size: 16px">
           <div>Privacy Policy</div>
           <div>Term & Service</div>
@@ -17,7 +17,7 @@
           >
         </div>
       </v-col>
-      <v-col cols="6">
+      <v-col class="pt-0" cols="12" md="6">
         <div class="text-center" style="font-size: 16px">
           Made with ❣️☕ | ️koffein-coffee.com <br />
           © Copyright 2020. All rights reserved.

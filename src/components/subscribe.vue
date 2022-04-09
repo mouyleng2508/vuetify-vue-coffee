@@ -3,13 +3,13 @@
     <v-row justify="center" align="center">
       <div style="font-size: 22px" class="font-weight-bold grey--text">
         Don't miss our Coffee Update!
-        <v-icon size="100" color="#EEDCCA"
+        <v-icon size="60" color="#EEDCCA"
           >mdi-email-outline mdi-rotate-315</v-icon
         >
       </div>
     </v-row>
-    <v-row justify="center" align="center" class="py-0">
-      <div class="" style="font-size: 20px">
+    <v-row justify="center" align="center" class="py-6">
+      <div class="text-subtitle text-center px-13">
         Join us by subscribing and get our best coffee news delivered every week
         and month!
       </div>
